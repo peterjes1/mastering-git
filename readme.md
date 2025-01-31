@@ -1,5 +1,3 @@
 ## hello guys
 
-'added a new text'
-'added text in testing branch' with conflicts
-with conflicts
+this is me creating conflict.
