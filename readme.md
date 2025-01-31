@@ -6,4 +6,7 @@
 <<<<<<< HEAD
 =======
 'trying out revert'
->>>>>>> parent of a28e33e (try revert true)
+
+> > > > > > > parent of a28e33e (try revert true)
+
+'revert'
