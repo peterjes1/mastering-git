@@ -1,3 +1,3 @@
 ## hello guys
 
-'added a new text'
+'my first conflict'
